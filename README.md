@@ -7,7 +7,7 @@
                                               S A H I L   K E S A R W A N I ✨
                           MERN Stack Developer | Open Source Enthusiast | Explorer | Competitive Programmer
 
-[![Linkedin: sahil-kesarwani](https://img.shields.io/badge/-sahil-kesarwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-kesarwani/)](https://www.linkedin.com/in/sahil-kesarwani/)
+[![Linkedin: sahil-kesarwani](https://img.shields.io/badge/-sahilkesarwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-kesarwani/)](https://www.linkedin.com/in/sahil-kesarwani/)
 [![GitHub: TusharKesarwani](https://img.shields.io/github/followers/TusharKesarwani?label=follow&style=social)](https://github.com/TusharKesarwani/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
