@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h1 align="center">### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Sahil!</h1>
+<h1 align="center">###Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Sahil!</h1>
 
                                             ✨ S A H I L   K E S A R W A N I ✨
                           MERN Stack Developer | Open Source Enthusiast | Explorer | Competitive Programmer
@@ -39,12 +39,12 @@
 
 <h3 align="left">My CP Handles:</h3>
 <p align="left">
-  <a href="https://www.codechef.com/users/tushar_104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar_104" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/tusharkesarwani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharkesarwani1" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/tushar_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar_104" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/tushar_104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar_104" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/tusharkesarwani44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tusharkesarwani44" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/sahil_2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahil_2003" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/sahil_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahil_2003" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/sahil1972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sahil1972" height="30" width="40" /></a>
+  <a href="https://leetcode.com/sahilkesarwani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilkesarwani" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@sahil1972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sahil1972" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/sahilkesarwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sahilkesarwani" height="30" width="40" /></a>
 </p>
 <br/>
 
