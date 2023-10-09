@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h1 align="center">##Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Sahil!</h1>
+<h1 align="center">#Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Sahil!</h1>
 
                                             ✨ S A H I L   K E S A R W A N I ✨
                           MERN Stack Developer | Open Source Enthusiast | Explorer | Competitive Programmer
@@ -17,7 +17,7 @@
 -   🌱 I have worked as a Problem Setter - Coding Intern at iMocha.
 -   🌱 I have also worked as a Web Developer Intern at Indwell Retail Pvt. Ltd.
 -   💬 Ask me about C/C++, Java, Python, HTML, CSS, JavaScript, React.js, Redux.js, Next.js, MongoDB, SQL, Node.js, Express.js.
--   📫 How to reach me: [linkedin:@Sahil](https://www.linkedin.com/in/sahil-kesarwani), [Instagram@Sahil](https://www.instagram.com/sahil.kesarwani)
+-   📫 How to reach me: [linkedin:@Sahil](https://www.linkedin.com/in/sahil-kesarwani) , [Instagram@Sahil](https://www.instagram.com/sahil.kesarwani)
 -   😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
@@ -48,9 +48,9 @@
 </p>
 <br/>
 
-<h3 align="center">A passionate Front-End Web developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web developer and a Competitive Programmer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TusharKesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="TusharKesarwani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SahilKesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="SahilKesarwani" /> </p>
 
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TusharKesarwani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
