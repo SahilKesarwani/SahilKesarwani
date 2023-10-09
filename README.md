@@ -72,15 +72,6 @@
 
 [![SahilKesarwani's GitHub stats](https://stats.quine.sh/SahilKesarwani/github)](https://stats.quine.sh/SahilKesarwani/github)
 
-<summary>:trophy: @sahilkesarwani's Holopin board</summary>
-  <br/>
-  <a href="https://holopin.io/@sahilkesarwani">
-    <img src="https://holopin.me/sahilkesarwani">
-  </a>
-
--   👨‍💻 All of my projects are available at my Portfolio website.
--Check out here [https://portfolio-of-tushar.netlify.app/](https://portfolio-of-tushar.netlify.app/)
-<img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/master/portfolio.png">
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -99,14 +90,13 @@
     ![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=Node.JS)
 -   🛢 &nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
+    ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=SQL)
 -   ⚙️ &nbsp;
     ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
     ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
     ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=for-the-badge&logo=Heroku)
 -   🔧 &nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=for-the-badge&logo=VisualStudioCode)
-    ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=for-the-badge&logo=Ubuntu)
-    ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter)
 
 <br/>
 
