@@ -68,10 +68,6 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=SahilKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
-<summary>Github Stats</summary>
-
-[![SahilKesarwani's GitHub stats](https://stats.quine.sh/SahilKesarwani/github)](https://stats.quine.sh/SahilKesarwani/github)
-
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -90,7 +86,7 @@
     ![NodeJS](https://img.shields.io/badge/-Node.JS-000000?style=for-the-badge&logo=Node.JS)
 -   🛢 &nbsp;
     ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MongoDB)
-    ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=SQL)
+    ![MYSQL](https://img.shields.io/badge/-MYSQL-000000?style=for-the-badge&logo=MYSQL)
 -   ⚙️ &nbsp;
     ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
     ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)
@@ -102,12 +98,12 @@
 
 <summary>:chart_with_upwards_trend: Contribution Chart </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=TusharKesarwani&theme=xcode" alt="Contribution Graph" align="center" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=SahilKesarwani&theme=xcode" alt="Contribution Graph" align="center" />
 
 <h2>My Contribution Graph 💹 </h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TusharKesarwani/TusharKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/SahilKesarwani/SahilKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <div align="center">
