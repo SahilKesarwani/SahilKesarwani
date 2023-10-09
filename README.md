@@ -54,14 +54,29 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SahilKesarwani&label=Profile%20views&color=0e75b6&style=flat" alt="SahilKesarwani" /> </p>
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TusharKesarwani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=TusharKesarwani&theme=nightowl&hide_border=true&fire=DD2727" alt="TusharKesarwani" />
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=TusharKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="TusharKesarwani" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahilKesarwani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKesarwani&theme=nightowl&hide_border=true&fire=DD2727" alt="SahilKesarwani" />
+  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="SahilKesarwani" />
 </p>
+
+
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+
+---
 
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=TusharKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+<summary>Github Stats</summary>
+
+[![tushar104's GitHub stats](https://stats.quine.sh/tushar104/github)](https://stats.quine.sh/tushar104/github)
+
+<summary>:trophy: @tushar_104's Holopin board</summary>
+  <br/>
+  <a href="https://holopin.io/@tushar_104">
+    <img src="https://holopin.me/tushar_104">
+  </a>
 
 -   👨‍💻 All of my projects are available at my Portfolio website.
 -Check out here [https://portfolio-of-tushar.netlify.app/](https://portfolio-of-tushar.netlify.app/)
