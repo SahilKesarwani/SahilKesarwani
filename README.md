@@ -96,29 +96,9 @@
 
 <br/>
 
-<summary>:chart_with_upwards_trend: Contribution Chart </summary>
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=SahilKesarwani&theme=xcode" alt="Contribution Graph" align="center" />
-
-<h2>My Contribution Graph 💹 </h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SahilKesarwani/SahilKesarwani/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
-<br/>
-
----
-
-### Here is a random meme for you, to make your day better
-
-(_PS: Refresh the page to see a new meme_ :wink: )
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
-
 <br/>
 
 ---
