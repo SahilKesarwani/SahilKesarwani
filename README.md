@@ -70,6 +70,7 @@
 
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<br/>
 
 -   💻 &nbsp;
     ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
