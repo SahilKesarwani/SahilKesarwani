@@ -5,7 +5,7 @@
 <h1 align="center">#Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Sahil!</h1>
 
                                             ✨ S A H I L   K E S A R W A N I ✨
-                          MERN Stack Developer | Open Source Enthusiast | Explorer | Competitive Programmer
+                          MERN Stack Developer | Native Developer | Explorer | Competitive Programmer
 
 [![Linkedin: sahil-kesarwani](https://img.shields.io/badge/-sahilkesarwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-kesarwani/)](https://www.linkedin.com/in/sahil-kesarwani/)
 [![GitHub: SahilKesarwani](https://img.shields.io/github/followers/SahilKesarwani?label=follow&style=social)](https://github.com/SahilKesarwani/)
@@ -55,7 +55,7 @@
 
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahilKesarwani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKesarwani&theme=nightowl&hide_border=true&fire=DD2727" alt="SahilKesarwani" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKesarwani&theme=nightowl&hide_border=true&fire=DD2727" alt="SahilKesarwani" />
   <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilKesarwani&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="SahilKesarwani" />
 </p>
 
