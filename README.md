@@ -15,8 +15,9 @@
 -   🎓 I'm a final-year Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.
 -   🔭 I'm currently working as a Web Developer Intern at AICTE.
 -   🌱 I have worked as a Problem Setter - Coding Intern at iMocha.
--   🌱 I have also worked as a Web Developer Intern at Indwell Retail Pvt. Ltd.
+-   ⚒  I have also worked as a Web Developer Intern at Indwell Retail Pvt. Ltd.
 -   💬 Ask me about C/C++, Java, Python, HTML, CSS, JavaScript, React.js, Redux.js, Next.js, MongoDB, SQL, Node.js, Express.js.
+-   📃 Resume - [Resume](https://drive.google.com/file/d/1xR-03d7eOVz_FAwDVQe05mTyHBtO3k6C/view?usp=sharing)
 -   📫 How to reach me: [linkedin:@Sahil](https://www.linkedin.com/in/sahil-kesarwani) , [Instagram@Sahil](https://www.instagram.com/sahil.kesarwani)
 -   😄 Pronouns: He/His
 
