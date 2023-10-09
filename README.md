@@ -2,46 +2,38 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h1 align="center">### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Sahil!!</h1>
+<h1 align="center">### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Sahil!</h1>
 
-                                              S A H I L   K E S A R W A N I ✨
+                                            ✨ S A H I L   K E S A R W A N I ✨
                           MERN Stack Developer | Open Source Enthusiast | Explorer | Competitive Programmer
 
 [![Linkedin: sahil-kesarwani](https://img.shields.io/badge/-sahilkesarwani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-kesarwani/)](https://www.linkedin.com/in/sahil-kesarwani/)
-[![GitHub: TusharKesarwani](https://img.shields.io/github/followers/TusharKesarwani?label=follow&style=social)](https://github.com/TusharKesarwani/)
+[![GitHub: SahilKesarwani](https://img.shields.io/github/followers/SahilKesarwani?label=follow&style=social)](https://github.com/SahilKesarwani/)
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
--   🎓 Studying Information Technology from Madan Mohan Malaviya University of Technology, Gorakhpur.
--   🔭 I'm currently working as a Problem Setter - Coding Intern at iMocha.
--   🔭 Mentor in an Open Source Contribution Program SSoC'22.
--   🔭 Contributed in an Open Soucre Contribution Program GSSoC'22 and worked as a Doubt Solver in [CodeChef](https://drive.google.com/file/d/1INFji3F38BwWp-M1lbAW045DZ-hNG-b3/view).
--   🌱 I’m currently learning Web Development & DSA.
--   💬 Ask me about JAVA, C, C++, Git, GitHub, Web Development
--   📫 How to reach me: [linkedin:@Tushar](https://www.linkedin.com/in/tushar104) , [Facebook:@Tushar](https://www.facebook.com/tusharkesarwani44) , [Instagram@Tushar](https://www.instagram.com/tushar_.104) , [Linktree:@Tushar](https://linktr.ee/tushar_104)
+-   🎓 I'm a final-year Computer Science and Engineering student at Shambhunath Institute of Engineering and Technology.
+-   🔭 I'm currently working as a Web Developer Intern at AICTE.
+-   🌱 I have worked as a Problem Setter - Coding Intern at iMocha.
+-   🌱 I have also worked as a Web Developer Intern at Indwell Retail Pvt. Ltd.
+-   💬 Ask me about C/C++, Java, Python, HTML, CSS, JavaScript, React.js, Redux.js, Next.js, MongoDB, SQL, Node.js, Express.js.
+-   📫 How to reach me: [linkedin:@Sahil](https://www.linkedin.com/in/sahil-kesarwani), [Instagram@Sahil](https://www.instagram.com/sahil.kesarwani)
 -   😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/tushar104/">
+  <a href="https://www.linkedin.com/in/sahil-kesarwani/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/TusharKesarwani">
+  <a href="https://github.com/SahilKesarwani">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
-
-  <a href="https://www.facebook.com/tusharkesarwani44">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
  
-  <a href="https://www.instagram.com/tushar_.104">
+  <a href="https://www.instagram.com/sahil.kesarwani">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
-
-  <a href="https://twitter.com/tushar_104">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
-  </a>
+  
 <p/>
 <br/>
 
