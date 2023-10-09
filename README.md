@@ -66,16 +66,16 @@
 
 <summary>:trophy: Github Profile Trophy</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TusharKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilKesarwani&theme=monokai&row=1&no-frame=true&no-bg=true/">
 
 <summary>Github Stats</summary>
 
-[![tushar104's GitHub stats](https://stats.quine.sh/tushar104/github)](https://stats.quine.sh/tushar104/github)
+[![SahilKesarwani's GitHub stats](https://stats.quine.sh/SahilKesarwani/github)](https://stats.quine.sh/SahilKesarwani/github)
 
-<summary>:trophy: @tushar_104's Holopin board</summary>
+<summary>:trophy: @sahilkesarwani's Holopin board</summary>
   <br/>
-  <a href="https://holopin.io/@tushar_104">
-    <img src="https://holopin.me/tushar_104">
+  <a href="https://holopin.io/@sahilkesarwani">
+    <img src="https://holopin.me/sahilkesarwani">
   </a>
 
 -   👨‍💻 All of my projects are available at my Portfolio website.
